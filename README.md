@@ -8,6 +8,32 @@
 	<a href="https://gitee.com/y_project/RuoYi-Vue/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
 </p>
 
+本项目是基于 若依 RuoYi 框架，适配国产数据库 KingBase（人大金仓） 的开源版本，致力于推动国产数据库在实际业务场景中的应用落地。
+
+🔧 项目地址：
+👉 https://github.com/Tomcat-plugins/RuoYiKingBase
+
+📌 项目特色：
+
+💾 支持国产数据库 KingBase，助力信创项目落地
+
+🧱 兼容 RuoYi 功能模块，快速部署上线
+
+🧩 数据库建表、脚本、配置已适配，无缝迁移
+
+🚀 适合政务、国企、金融等国产化业务系统建设
+
+📣 进群请遵守以下规则：
+
+本群专注技术交流，禁止刷屏/广告/无关话题；
+
+有问题请先阅读 GitHub 文档/README；
+
+欢迎贡献代码、提交 issue 或 PR。
+
+🧑‍💻 作者：Tomcat-plugins
+📬 GitHub星星鼓励一下，让更多人看到国产化成果！
+
 ## 平台简介
 
 若依是一套全部开源的快速开发平台，毫无保留给个人及企业免费使用。
