@@ -117,6 +117,6 @@
 </table>
 
 
-## 若依KingBase前后端分离交流群
+## RuoYi-KingBase 开发交流群
 
 QQ群： [![加入QQ群](https://img.shields.io/badge/881362215-blue.svg)](https://qm.qq.com/cgi-bin/qm/qr?k=XDqjq0uN5isp-SDGUZW_-mtCLwxvE5cl&jump_from=webapi&authKey=+5u2WBftmhtXzVt1jOODYznYcQ8JiC2hABjqRcakf51ry7+sjzUfPG5E5mFDeVub) 点击按钮入群。
