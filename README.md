@@ -7,32 +7,34 @@
 	<a href="https://gitee.com/y_project/RuoYi-Vue"><img src="https://img.shields.io/badge/RuoYi-v3.9.0-brightgreen.svg"></a>
 	<a href="https://gitee.com/y_project/RuoYi-Vue/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
 </p>
+🚀 RuoYi-KingBase 开源啦！为国产数据库的新创项目落地保驾护航！
 
-本项目是基于 若依 RuoYi 框架，适配国产数据库 KingBase（人大金仓） 的开源版本，致力于推动国产数据库在实际业务场景中的应用落地。
+国产数据库 KingBase（金仓）越来越多地出现在各类政企场景中，为了方便开发者更快上手，我基于 RuoYi 框架打造了适配版本 RuoYiKingBase，现已开源！
 
-🔧 项目地址：
+🔗 GitHub 地址：
 👉 https://github.com/Tomcat-plugins/RuoYiKingBase
 
-📌 项目特色：
+🔍 项目亮点：
 
-💾 支持国产数据库 KingBase，助力信创项目落地
+✅ 完全适配金仓数据库 KingBase，适用于生产级使用
 
-🧱 兼容 RuoYi 功能模块，快速部署上线
+✅ 保留 RuoYi 原有权限、系统、代码生成等完整功能
 
-🧩 数据库建表、脚本、配置已适配，无缝迁移
+✅ 提供可用的建表 SQL 和连接配置示例
 
-🚀 适合政务、国企、金融等国产化业务系统建设
+✅ 适配测试完整，稳定性高，上手成本低
 
-📣 进群请遵守以下规则：
+🎯 适用场景：
 
-本群专注技术交流，禁止刷屏/广告/无关话题；
+政企项目采用国产数据库的需求
 
-有问题请先阅读 GitHub 文档/README；
+新创团队快速搭建后台管理系统
 
-欢迎贡献代码、提交 issue 或 PR。
+学习国产数据库项目实战落地的开发者
 
-🧑‍💻 作者：Tomcat-plugins
-📬 GitHub星星鼓励一下，让更多人看到国产化成果！
+🧠 学技术 ➕ 做项目 ➕ 拓展国产数据库实战经验
+
+📬 欢迎进群交流，Star 项目、参与建设、共同进步！
 
 ## 平台简介
 
